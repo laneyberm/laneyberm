@@ -20,7 +20,18 @@
 <img align="left" alt="linkedin" width="22px" src="https://github.com/laneyberm/laneyberm/blob/main/static/images/jupyter-icon.png" />
 <img align="left" alt="linkedin" width="22px" src="https://github.com/laneyberm/laneyberm/blob/main/static/images/colab-icon.png" />
 <img align="left" alt="linkedin" width="22px" src="https://github.com/laneyberm/laneyberm/blob/main/static/images/tableau-icon.jpg" />
-
+<br />
 <br />
 
 [![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=laneyberm&show_icons=true&theme=transparent)](https://github.com/laneyberm/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laneyberm)](https://github.com/laneyberm/github-readme-stats)
+
+<a href="https://github.com/laneyberm/Amazon_Vine_Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laneyberm&repo=Amazon_Vine_Analysis" />
+</a>
+<a href="https://github.com/laneyberm/NY_Citibike_Sharing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laneyberm&repo=NY_Citibike_Sharing" />
+</a>
