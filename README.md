@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning ...
 - 💞️ I'm looking to collaborate on ...
 - ✨ 2023 Goals: 
-- ⚡ Fun Fact: I love to 
+- ⚡ Fun Fact: I love to bake cookies and learning to have a green thumb.
 
 
 ### Connect with me 📫:
