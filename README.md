@@ -29,9 +29,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laneyberm)](https://github.com/laneyberm/github-readme-stats)
 
-<a href="https://github.com/laneyberm/Amazon_Vine_Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laneyberm&repo=Amazon_Vine_Analysis" />
-</a>
-<a href="https://github.com/laneyberm/NY_Citibike_Sharing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laneyberm&repo=NY_Citibike_Sharing" />
-</a>
