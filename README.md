@@ -8,4 +8,4 @@
 - ⚡ Fun Fact: I love to 
 
 ### 📫 Connect with me:
-[img align="left" alt="laneyberm.com" width="22px" src="" />][linkedin]
+<img align="left" alt="laneyberm.com" width="22px" src="https://github.com/laneyberm/laneyberm/blob/main/static/images/linkedin.png" />[linkedin]
